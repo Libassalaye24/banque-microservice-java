@@ -1,0 +1,32 @@
+spring:
+  application:
+    name: api-gateway
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:8080/realms/secure-realm-app
+          jwk-set-uri: http://localhost:8080/realms/secure-realm-app/protocol/openid-connect/certs
+#  main:
+#    allow-bean-definition-overriding: true
+server:
+  port: 8765
+
+app:
+  keycloak:
+    admin:
+      username: libassedev
+      password: root
+    issuerUri: http://localhost:8080/realms/secure-realm-app
+    login:
+      url: http://localhost:8080/realms/secure-realm-app/protocol/openid-connect/token
+    server:
+      url: http://localhost:8080
+    client-secret: Kcizqjrqwm7kGbidGsjIJOspfwheNApN
+    realm:
+      name: secure-realm-app
+    client-id: secure-app
+    grant-type: password
+keycloak:
+  use-resource-role-mappings: 'true'
+  ssl-required: external

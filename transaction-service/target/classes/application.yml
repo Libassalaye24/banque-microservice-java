@@ -1,0 +1,39 @@
+spring:
+  application:
+    name: transaction-service
+
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: "default"
+
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    password: root1
+    url: jdbc:postgresql://localhost:5432/gestionbanque_transaction_service_db
+    username: postgres
+  jpa:
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+    show-sql: true
+
+topic:
+  name: compte-event-topic
+topic1:
+  name1: transaction-event-topic
+
+
+
+server:
+  port: 8086
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    hostname: localhost

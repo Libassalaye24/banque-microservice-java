@@ -1,0 +1,15 @@
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\dto\TransactionDto.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\event\AgeStatus.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\dto\ClientDto.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\dto\ErrorDTO.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\event\PaiementEvent.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\dto\CompteDepotDto.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\event\TransactionEvent.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\event\Event.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\dto\PaiementDto.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\event\CompteStatus.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\event\CompteEvent.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\event\TransactionStatus.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\event\ClientEvent.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\dto\CompteDto.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\common-service\src\main\java\com\banque\common\service\event\ClientStatus.java

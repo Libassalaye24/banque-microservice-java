@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/apigateway.iml" filepath="$PROJECT_DIR$/api-gateway/apigateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banque-microservice.iml" filepath="$PROJECT_DIR$/banque-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-service/clientservice.iml" filepath="$PROJECT_DIR$/client-service/clientservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-service/commonservice.iml" filepath="$PROJECT_DIR$/common-service/commonservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/naming-server/namingserver.iml" filepath="$PROJECT_DIR$/naming-server/namingserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transaction-service/transactionservice.iml" filepath="$PROJECT_DIR$/transaction-service/transactionservice.iml" />
+    </modules>
+  </component>
+</project>

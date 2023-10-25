@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9a9ba3d-cd86-4a14-802b-d0ea0f415ac9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="banque-microservice" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2T6YcboFjWRwv445RzMlrPwn1XM" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client-service/src/main/java/com/banque/client/service" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="android.dex.compiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.banque.common.service.event" />
+      <recent name="com.banque.common.service.dto" />
+      <recent name="com.banque.transaction.service.controller" />
+      <recent name="com.banque.client.service.controller" />
+      <recent name="com.banque.client.service.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\client-service\src\main\java\com\banque\client\service" />
+      <recent name="C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\client-service\src\main\resources" />
+      <recent name="C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\api-gateway\src\main\java\com\banque\api\gateway" />
+      <recent name="C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\api-gateway\src\main\resources" />
+      <recent name="C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\api-gateway\src\main\java\com\banque\api\gateway\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ClientServiceApplication">
+    <configuration name="ApiGateWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="apigateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.banque.api.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.banque.api.gateway.ApiGateWayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="clientservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.banque.client.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.banque.client.service.ClientServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NamingServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="namingserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.banque.naming.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.banque.naming.server.NamingServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="transactionservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.banque.transaction.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.banque.transaction.service.TransactionServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ClientServiceApplication" />
+        <item itemvalue="Spring Boot.NamingServerApplication" />
+        <item itemvalue="Spring Boot.TransactionServiceApplication" />
+        <item itemvalue="Spring Boot.ApiGateWayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@91b01cfa" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@91b01cfa" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@df58c76a" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@91b01cfa" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@5136a9a" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9a9ba3d-cd86-4a14-802b-d0ea0f415ac9" name="Default Changelist" comment="" />
+      <created>1690365077942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690365077942</updated>
+      <workItem from="1690365081318" duration="2190000" />
+      <workItem from="1690367518263" duration="2475000" />
+      <workItem from="1690370966050" duration="13298000" />
+      <workItem from="1690387158219" duration="8042000" />
+      <workItem from="1690397689299" duration="18983000" />
+      <workItem from="1690540936652" duration="37709000" />
+      <workItem from="1690756755615" duration="2277000" />
+      <workItem from="1690790996192" duration="2953000" />
+      <workItem from="1690795673199" duration="31466000" />
+      <workItem from="1690978668757" duration="16604000" />
+      <workItem from="1691091234611" duration="2209000" />
+      <workItem from="1691203187441" duration="10204000" />
+      <workItem from="1691235084931" duration="1511000" />
+      <workItem from="1691236931146" duration="1501000" />
+      <workItem from="1691239255031" duration="1262000" />
+      <workItem from="1691243089615" duration="118000" />
+      <workItem from="1691243841385" duration="161000" />
+      <workItem from="1691605847047" duration="7273000" />
+      <workItem from="1691833959551" duration="3167000" />
+      <workItem from="1698257415099" duration="141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

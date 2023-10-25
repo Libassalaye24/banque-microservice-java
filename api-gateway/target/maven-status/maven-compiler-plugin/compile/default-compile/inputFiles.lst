@@ -1,0 +1,10 @@
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\api-gateway\src\main\java\com\banque\api\gateway\model\LoginResponse.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\api-gateway\src\main\java\com\banque\api\gateway\service\RestTemplateClient.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\api-gateway\src\main\java\com\banque\api\gateway\security\JwtReactorAuthConverter.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\api-gateway\src\main\java\com\banque\api\gateway\service\LoginService.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\api-gateway\src\main\java\com\banque\api\gateway\ApiGateWayConfiguration.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\api-gateway\src\main\java\com\banque\api\gateway\model\LoginRequest.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\api-gateway\src\main\java\com\banque\api\gateway\security\WebSecurityConfig.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\api-gateway\src\main\java\com\banque\api\gateway\ApiGateWayApplication.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\api-gateway\src\main\java\com\banque\api\gateway\controller\LoginController.java
+C:\Users\Jughead\Desktop\L3 DEV\java\springBoot\api\banque-microservice\api-gateway\src\main\java\com\banque\api\gateway\security\JwtAuthConverterProperties.java

@@ -1,0 +1,10 @@
+com\banque\api\gateway\ApiGateWayApplication.class
+com\banque\api\gateway\service\LoginService.class
+com\banque\api\gateway\service\RestTemplateClient.class
+com\banque\api\gateway\security\WebSecurityConfig.class
+com\banque\api\gateway\controller\LoginController.class
+com\banque\api\gateway\ApiGateWayConfiguration.class
+com\banque\api\gateway\model\LoginResponse.class
+com\banque\api\gateway\security\JwtAuthConverterProperties.class
+com\banque\api\gateway\model\LoginRequest.class
+com\banque\api\gateway\security\JwtReactorAuthConverter.class
